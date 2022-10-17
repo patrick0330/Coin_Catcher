@@ -20,4 +20,4 @@ Right click "專案" -> Choose "屬性" -> "C/C++" -> 一般 -> 其他 Include�
 
 -> Go to "連結器" -> "輸入" ->  "其他相依性" -> 編輯 -> Add "opengl32.lib", "glew32s.lib", "glfw3.lib"
 
-F5 
+F5 to compile
