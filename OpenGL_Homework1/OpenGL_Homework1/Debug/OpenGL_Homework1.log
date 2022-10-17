@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\patrick\Desktop\Computer Graphic\OpenGL_Homework1\OpenGL_Homework1\main.cpp(215,27): warning C4806: '==': 不安全的作業: 類型 'bool' 升至類型 'int' 後沒有值可以等於所給的常數
+C:\Users\patrick\Desktop\Computer Graphic\OpenGL_Homework1\OpenGL_Homework1\main.cpp(220,27): warning C4806: '==': 不安全的作業: 類型 'bool' 升至類型 'int' 後沒有值可以等於所給的常數
+  OpenGL_Homework1.vcxproj -> C:\Users\patrick\Desktop\Computer Graphic\OpenGL_Homework1\Debug\OpenGL_Homework1.exe

@@ -1,0 +1,5 @@
+﻿  main.cpp
+MSVCRTD.lib(exe_main.obj) : error LNK2019: 在函式 main"int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 中參考了無法解析的外部符號
+D:\OpenGL\glew-2.1.0\lib\Release\Win32\glew32s.lib : warning LNK4272: 程式庫電腦類型 'x86' 與目標電腦類型 'x64' 發生衝突
+D:\OpenGL\glfw-3.3.8.bin.WIN32\lib-vc2022\glfw3.lib : warning LNK4272: 程式庫電腦類型 'x86' 與目標電腦類型 'x64' 發生衝突
+C:\Users\patrick\Desktop\Computer Graphic\OpenGL_Homework1\x64\Debug\OpenGL_Homework1.exe : fatal error LNK1120: 1 個無法解析的外部符號
